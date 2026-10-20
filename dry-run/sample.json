@@ -1,0 +1,329 @@
+{
+  "drawn_at": "2026-09-09T17:41:31.295Z",
+  "source": "dry-run/source-tranco-74V6X-render.jsonl (GitHub Actions run 34161247425, 2026-09-07)",
+  "rescanned_population": 486,
+  "top_quartile_size": 121,
+  "bottom_quartile_size": 121,
+  "domains": [
+    {
+      "group": "top_quartile",
+      "rank": 562,
+      "domain": "360yield.com",
+      "url": "https://360yield.com/",
+      "link_count": 4,
+      "link_density": 4
+    },
+    {
+      "group": "top_quartile",
+      "rank": 963,
+      "domain": "note.com",
+      "url": "https://note.com/",
+      "link_count": 27,
+      "link_density": 0.8181818181818182
+    },
+    {
+      "group": "top_quartile",
+      "rank": 71,
+      "domain": "wa.me",
+      "url": "https://wa.me/",
+      "link_count": 119,
+      "link_density": 0.4594594594594595
+    },
+    {
+      "group": "top_quartile",
+      "rank": 10,
+      "domain": "apple.com",
+      "url": "https://apple.com/",
+      "link_count": 92,
+      "link_density": 0.2967741935483871
+    },
+    {
+      "group": "top_quartile",
+      "rank": 294,
+      "domain": "mzstatic.com",
+      "url": "https://mzstatic.com/",
+      "link_count": 92,
+      "link_density": 0.2967741935483871
+    },
+    {
+      "group": "top_quartile",
+      "rank": 628,
+      "domain": "jotform.com",
+      "url": "https://jotform.com/",
+      "link_count": 268,
+      "link_density": 0.21052631578947367
+    },
+    {
+      "group": "top_quartile",
+      "rank": 358,
+      "domain": "issuu.com",
+      "url": "https://issuu.com/",
+      "link_count": 52,
+      "link_density": 0.12440191387559808
+    },
+    {
+      "group": "top_quartile",
+      "rank": 31,
+      "domain": "wikipedia.org",
+      "url": "https://wikipedia.org/",
+      "link_count": 383,
+      "link_density": 0.10073645449763283
+    },
+    {
+      "group": "top_quartile",
+      "rank": 464,
+      "domain": "speedtest.net",
+      "url": "https://speedtest.net/",
+      "link_count": 81,
+      "link_density": 0.097708082026538
+    },
+    {
+      "group": "top_quartile",
+      "rank": 306,
+      "domain": "weather.com",
+      "url": "https://weather.com/",
+      "link_count": 46,
+      "link_density": 0.09163346613545817
+    },
+    {
+      "group": "top_quartile",
+      "rank": 614,
+      "domain": "anthropic.com",
+      "url": "https://anthropic.com/",
+      "link_count": 188,
+      "link_density": 0.08506787330316742
+    },
+    {
+      "group": "top_quartile",
+      "rank": 981,
+      "domain": "segment.io",
+      "url": "https://segment.io/",
+      "link_count": 374,
+      "link_density": 0.07822631248692742
+    },
+    {
+      "group": "top_quartile",
+      "rank": 94,
+      "domain": "samsung.com",
+      "url": "https://samsung.com/",
+      "link_count": 315,
+      "link_density": 0.07492863939105614
+    },
+    {
+      "group": "top_quartile",
+      "rank": 839,
+      "domain": "livejournal.com",
+      "url": "https://livejournal.com/",
+      "link_count": 140,
+      "link_density": 0.07470651013874066
+    },
+    {
+      "group": "top_quartile",
+      "rank": 648,
+      "domain": "nike.com",
+      "url": "https://nike.com/",
+      "link_count": 446,
+      "link_density": 0.07427144046627811
+    },
+    {
+      "group": "top_quartile",
+      "rank": 988,
+      "domain": "otto.de",
+      "url": "https://otto.de/",
+      "link_count": 559,
+      "link_density": 0.07277698216378076
+    },
+    {
+      "group": "top_quartile",
+      "rank": 487,
+      "domain": "ietf.org",
+      "url": "https://ietf.org/",
+      "link_count": 164,
+      "link_density": 0.06588991562876657
+    },
+    {
+      "group": "top_quartile",
+      "rank": 552,
+      "domain": "icloud-content.com",
+      "url": "https://icloud-content.com/",
+      "link_count": 203,
+      "link_density": 0.0645879732739421
+    },
+    {
+      "group": "top_quartile",
+      "rank": 693,
+      "domain": "dotomi.com",
+      "url": "https://dotomi.com/",
+      "link_count": 105,
+      "link_density": 0.05642127888232133
+    },
+    {
+      "group": "top_quartile",
+      "rank": 819,
+      "domain": "bitdefender.net",
+      "url": "https://bitdefender.net/",
+      "link_count": 272,
+      "link_density": 0.05254008112806645
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 590,
+      "domain": "3lift.com",
+      "url": "https://3lift.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 642,
+      "domain": "shopee.com.br",
+      "url": "https://shopee.com.br/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 650,
+      "domain": "mega.co.nz",
+      "url": "https://mega.co.nz/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 680,
+      "domain": "fontawesome.com",
+      "url": "https://fontawesome.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 700,
+      "domain": "id5-sync.com",
+      "url": "https://id5-sync.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 707,
+      "domain": "amazon.es",
+      "url": "https://amazon.es/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 713,
+      "domain": "amazon.it",
+      "url": "https://amazon.it/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 725,
+      "domain": "fifa.com",
+      "url": "https://fifa.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 742,
+      "domain": "shopee.co.id",
+      "url": "https://shopee.co.id/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 787,
+      "domain": "meta.com",
+      "url": "https://meta.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 817,
+      "domain": "a-mo.net",
+      "url": "https://a-mo.net/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 843,
+      "domain": "me.com",
+      "url": "https://me.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 855,
+      "domain": "agoda.com",
+      "url": "https://agoda.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 858,
+      "domain": "amazon.com.au",
+      "url": "https://amazon.com.au/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 864,
+      "domain": "jetbrains.com",
+      "url": "https://jetbrains.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 870,
+      "domain": "disqus.com",
+      "url": "https://disqus.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 886,
+      "domain": "arcgis.com",
+      "url": "https://arcgis.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 912,
+      "domain": "starlink.com",
+      "url": "https://starlink.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 913,
+      "domain": "ryanair.com",
+      "url": "https://ryanair.com/",
+      "link_count": 0,
+      "link_density": 0
+    },
+    {
+      "group": "bottom_quartile",
+      "rank": 926,
+      "domain": "playrix.com",
+      "url": "https://playrix.com/",
+      "link_count": 0,
+      "link_density": 0
+    }
+  ]
+}

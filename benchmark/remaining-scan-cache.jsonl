@@ -1,0 +1,514 @@
+{"rank":3,"domain":"facebook.com","url":"https://facebook.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:28.929Z"}
+{"rank":4,"domain":"gstatic.com","url":"https://gstatic.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:28.969Z"}
+{"rank":5,"domain":"googleapis.com","url":"https://googleapis.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:35:28.970Z"}
+{"rank":8,"domain":"akamai.net","url":"https://akamai.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:28.971Z"}
+{"rank":11,"domain":"instagram.com","url":"https://instagram.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:28.972Z"}
+{"rank":12,"domain":"mail.ru","url":"https://mail.ru/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:28.973Z"}
+{"rank":13,"domain":"ezviz7.com","url":"https://ezviz7.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:28.995Z"}
+{"rank":14,"domain":"fbcdn.net","url":"https://fbcdn.net/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:29.090Z"}
+{"rank":15,"domain":"twitter.com","url":"https://twitter.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:29.161Z"}
+{"rank":18,"domain":"domaincontrol.com","url":"https://domaincontrol.com/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:35:29.239Z"}
+{"rank":19,"domain":"googlevideo.com","url":"https://googlevideo.com/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:35:29.257Z"}
+{"rank":21,"domain":"googletagmanager.com","url":"https://googletagmanager.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:35:29.276Z"}
+{"rank":22,"domain":"hicloudcam.com","url":"https://hicloudcam.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:29.283Z"}
+{"rank":24,"domain":"akamaiedge.net","url":"https://akamaiedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:29.333Z"}
+{"rank":26,"domain":"gtld-servers.net","url":"https://gtld-servers.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:29.404Z"}
+{"rank":27,"domain":"akadns.net","url":"https://akadns.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:29.448Z"}
+{"rank":33,"domain":"apple-dns.net","url":"https://apple-dns.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:29.471Z"}
+{"rank":34,"domain":"googleusercontent.com","url":"https://googleusercontent.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:35:29.753Z"}
+{"rank":36,"domain":"appsflyersdk.com","url":"https://appsflyersdk.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:29.905Z"}
+{"rank":38,"domain":"aaplimg.com","url":"https://aaplimg.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.087Z"}
+{"rank":39,"domain":"microsoftonline.com","url":"https://microsoftonline.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.099Z"}
+{"rank":40,"domain":"office.net","url":"https://office.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.118Z"}
+{"rank":41,"domain":"netflix.com","url":"https://netflix.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:30.171Z"}
+{"rank":42,"domain":"trafficmanager.net","url":"https://trafficmanager.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.177Z"}
+{"rank":43,"domain":"gandi.net","url":"https://gandi.net/","status":"ok","checked_at":"2026-09-09T18:35:30.186Z","html_char_length":189122,"link_count":152,"link_density":0.010981865472147967,"stock":{"char_length":13841,"total_chunks":13,"total_chunks_plain":13,"boundaries_markdown":[169,330,499,654,806,889,1044,1176,1321,1559,1689,1857,1954],"boundaries_plain":[173,330,502,674,806,889,1044,1176,1321,1559,1689,1857,1954]},"page_contents":{"char_length":12129,"total_chunks":13,"total_chunks_plain":13,"boundaries_markdown":[163,330,498,664,816,899,1054,1186,1331,1569,1699,1867,1970],"boundaries_plain":[176,340,512,684,816,899,1054,1186,1331,1569,1699,1867,1970]}}
+{"rank":50,"domain":"x.com","url":"https://x.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:30.202Z"}
+{"rank":51,"domain":"goo.gl","url":"https://goo.gl/","status":"error","error":"HTTP 400","error_category":"http_400","checked_at":"2026-09-09T18:35:30.204Z"}
+{"rank":52,"domain":"cloudfront.net","url":"https://cloudfront.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.231Z"}
+{"rank":57,"domain":"pinterest.com","url":"https://pinterest.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:30.248Z"}
+{"rank":59,"domain":"cloudflare.net","url":"https://cloudflare.net/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:30.368Z"}
+{"rank":62,"domain":"gvt1.com","url":"https://gvt1.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.374Z"}
+{"rank":63,"domain":"windowsupdate.com","url":"https://windowsupdate.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.377Z"}
+{"rank":65,"domain":"windows.net","url":"https://windows.net/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:35:30.410Z"}
+{"rank":67,"domain":"pv-cdn.net","url":"https://pv-cdn.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.460Z"}
+{"rank":70,"domain":"myfritz.net","url":"https://myfritz.net/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:30.499Z"}
+{"rank":73,"domain":"akam.net","url":"https://akam.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.523Z"}
+{"rank":75,"domain":"cdninstagram.com","url":"https://cdninstagram.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.544Z"}
+{"rank":77,"domain":"chatgpt.com","url":"https://chatgpt.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:30.548Z"}
+{"rank":79,"domain":"tiktokcdn.com","url":"https://tiktokcdn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.572Z"}
+{"rank":80,"domain":"tiktokv.com","url":"https://tiktokv.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:35:30.602Z"}
+{"rank":82,"domain":"root-servers.net","url":"https://root-servers.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.636Z"}
+{"rank":83,"domain":"edgekey.net","url":"https://edgekey.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.639Z"}
+{"rank":85,"domain":"baidu.com","url":"https://baidu.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:30.660Z"}
+{"rank":86,"domain":"gvt2.com","url":"https://gvt2.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.719Z"}
+{"rank":87,"domain":"openai.com","url":"https://openai.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:30.863Z"}
+{"rank":89,"domain":"ytimg.com","url":"https://ytimg.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.890Z"}
+{"rank":90,"domain":"gwfb.net","url":"https://gwfb.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.940Z"}
+{"rank":97,"domain":"edgesuite.net","url":"https://edgesuite.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:30.968Z"}
+{"rank":105,"domain":"reddit.com","url":"https://reddit.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:30.982Z"}
+{"rank":108,"domain":"a2z.com","url":"https://a2z.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:31.072Z"}
+{"rank":111,"domain":"office365.com","url":"https://office365.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:31.093Z"}
+{"rank":112,"domain":"aws.dev","url":"https://aws.dev/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:31.115Z"}
+{"rank":113,"domain":"yccdn.ru","url":"https://yccdn.ru/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:31.244Z"}
+{"rank":118,"domain":"okcdn.ru","url":"https://okcdn.ru/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:31.272Z"}
+{"rank":120,"domain":"registrar-servers.com","url":"https://registrar-servers.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:31.503Z"}
+{"rank":124,"domain":"app-analytics-services.com","url":"https://app-analytics-services.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:35:31.868Z"}
+{"rank":125,"domain":"app-measurement.com","url":"https://app-measurement.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:35:31.952Z"}
+{"rank":127,"domain":"cdn77.org","url":"https://cdn77.org/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:31.988Z"}
+{"rank":129,"domain":"unity3d.com","url":"https://unity3d.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:35:32.011Z"}
+{"rank":131,"domain":"amazon-adsystem.com","url":"https://amazon-adsystem.com/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:35:32.127Z"}
+{"rank":132,"domain":"vkuserphoto.ru","url":"https://vkuserphoto.ru/","status":"error","error":"HTTP 418","error_category":"http_418","checked_at":"2026-09-09T18:35:32.140Z"}
+{"rank":133,"domain":"trbcdn.net","url":"https://trbcdn.net/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:35:32.211Z"}
+{"rank":134,"domain":"amazon.dev","url":"https://amazon.dev/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:32.698Z"}
+{"rank":135,"domain":"dnsowl.com","url":"https://dnsowl.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:32.703Z"}
+{"rank":138,"domain":"nih.gov","url":"https://nih.gov/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:32.738Z"}
+{"rank":139,"domain":"msftncsi.com","url":"https://msftncsi.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:32.844Z"}
+{"rank":140,"domain":"iiko.it","url":"https://iiko.it/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:32.920Z"}
+{"rank":142,"domain":"miit.gov.cn","url":"https://miit.gov.cn/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:33.020Z"}
+{"rank":143,"domain":"intuit.com","url":"https://intuit.com/","status":"ok","checked_at":"2026-09-09T18:35:33.154Z","html_char_length":373464,"link_count":153,"link_density":0.01127570196772054,"stock":{"char_length":13569,"total_chunks":5,"total_chunks_plain":4,"boundaries_markdown":[161,317,481,647,765],"boundaries_plain":[192,424,603,765]},"page_contents":{"char_length":5004,"total_chunks":5,"total_chunks_plain":4,"boundaries_markdown":[157,326,495,662,708],"boundaries_plain":[182,365,536,708]}}
+{"rank":144,"domain":"static.microsoft","url":"https://static.microsoft/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:33.713Z"}
+{"rank":145,"domain":"epicgames.com","url":"https://epicgames.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:33.732Z"}
+{"rank":147,"domain":"forms.gle","url":"https://forms.gle/","status":"error","error":"HTTP 400","error_category":"http_400","checked_at":"2026-09-09T18:35:33.783Z"}
+{"rank":150,"domain":"azurefd.net","url":"https://azurefd.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:33.949Z"}
+{"rank":152,"domain":"godaddy.com","url":"https://godaddy.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:33.995Z"}
+{"rank":153,"domain":"steamserver.net","url":"https://steamserver.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:34.209Z"}
+{"rank":158,"domain":"msftconnecttest.com","url":"https://msftconnecttest.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:34.213Z"}
+{"rank":159,"domain":"aliyuncs.com","url":"https://aliyuncs.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:35:34.245Z"}
+{"rank":160,"domain":"dns-parking.com","url":"https://dns-parking.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:34.271Z"}
+{"rank":162,"domain":"vedcdnlb.com","url":"https://vedcdnlb.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:34.324Z"}
+{"rank":164,"domain":"jomodns.com","url":"https://jomodns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:34.595Z"}
+{"rank":167,"domain":"tm-azurefd.net","url":"https://tm-azurefd.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:34.628Z"}
+{"rank":169,"domain":"3gppnetwork.org","url":"https://3gppnetwork.org/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:35.415Z"}
+{"rank":170,"domain":"ax-msedge.net","url":"https://ax-msedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:35.465Z"}
+{"rank":171,"domain":"webex.com","url":"https://webex.com/","status":"ok","checked_at":"2026-09-09T18:35:35.532Z","html_char_length":150922,"link_count":201,"link_density":0.007137277182018322,"stock":{"char_length":28162,"total_chunks":12,"total_chunks_plain":9,"boundaries_markdown":[167,286,456,626,754,910,1075,1240,1408,1571,1737,1801],"boundaries_plain":[259,512,746,910,1099,1276,1452,1628,1801]},"page_contents":{"char_length":11632,"total_chunks":11,"total_chunks_plain":10,"boundaries_markdown":[166,318,469,588,753,922,1085,1248,1403,1564,1622],"boundaries_plain":[193,386,580,698,867,1024,1194,1363,1564,1622]}}
+{"rank":172,"domain":"ggpht.com","url":"https://ggpht.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:35.561Z"}
+{"rank":178,"domain":"namebrightdns.com","url":"https://namebrightdns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:35.612Z"}
+{"rank":179,"domain":"azurewebsites.net","url":"https://azurewebsites.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:35.658Z"}
+{"rank":181,"domain":"macromedia.com","url":"https://macromedia.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:35:35.844Z"}
+{"rank":182,"domain":"flickr.com","url":"https://flickr.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:35.855Z"}
+{"rank":183,"domain":"googleadservices.com","url":"https://googleadservices.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:35:36.027Z"}
+{"rank":184,"domain":"cdn-apple.com","url":"https://cdn-apple.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:36.218Z"}
+{"rank":186,"domain":"bytefcdn-oversea.com","url":"https://bytefcdn-oversea.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:36.254Z"}
+{"rank":187,"domain":"hichina.com","url":"https://hichina.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:36.345Z"}
+{"rank":189,"domain":"nflxso.net","url":"https://nflxso.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:36.897Z"}
+{"rank":192,"domain":"medium.com","url":"https://medium.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:37.171Z"}
+{"rank":196,"domain":"lsrelayaccess.com","url":"https://lsrelayaccess.com/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:35:37.191Z"}
+{"rank":199,"domain":"oracle.com","url":"https://oracle.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:37.291Z"}
+{"rank":200,"domain":"shifen.com","url":"https://shifen.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:35:38.235Z"}
+{"rank":202,"domain":"ttdns2.com","url":"https://ttdns2.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:38.428Z"}
+{"rank":206,"domain":"playstation.net","url":"https://playstation.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:38.478Z"}
+{"rank":210,"domain":"sfx.ms","url":"https://sfx.ms/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:38.499Z"}
+{"rank":212,"domain":"ksyuncdn.com","url":"https://ksyuncdn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:38.533Z"}
+{"rank":213,"domain":"youtube-nocookie.com","url":"https://youtube-nocookie.com/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:35:39.182Z"}
+{"rank":214,"domain":"sciencedirect.com","url":"https://sciencedirect.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:39.289Z"}
+{"rank":216,"domain":"fastly-edge.com","url":"https://fastly-edge.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:39.613Z"}
+{"rank":217,"domain":"prodregistryv2.org","url":"https://prodregistryv2.org/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:35:39.626Z"}
+{"rank":220,"domain":"researchgate.net","url":"https://researchgate.net/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:39.696Z"}
+{"rank":221,"domain":"cdngslb.com","url":"https://cdngslb.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:35:39.699Z"}
+{"rank":223,"domain":"duckdns.org","url":"https://duckdns.org/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:35:39.909Z"}
+{"rank":224,"domain":"akamaized.net","url":"https://akamaized.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:42.820Z"}
+{"rank":228,"domain":"userapi.com","url":"https://userapi.com/","status":"ok","checked_at":"2026-09-09T18:35:42.893Z","html_char_length":108641,"link_count":1,"link_density":0.001524390243902439,"stock":{"char_length":656,"total_chunks":1,"total_chunks_plain":1,"boundaries_markdown":[34],"boundaries_plain":[34]},"page_contents":{"char_length":245,"total_chunks":1,"total_chunks_plain":1,"boundaries_markdown":[35],"boundaries_plain":[35]}}
+{"rank":229,"domain":"ozon.ru","url":"https://ozon.ru/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:35:43.705Z"}
+{"rank":230,"domain":"nr-data.net","url":"https://nr-data.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:52.013Z"}
+{"rank":232,"domain":"t.co","url":"https://t.co/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:52.172Z"}
+{"rank":233,"domain":"ebay.com","url":"https://ebay.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:52.500Z"}
+{"rank":234,"domain":"azureedge.net","url":"https://azureedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:53.326Z"}
+{"rank":235,"domain":"comcast.net","url":"https://comcast.net/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:53.379Z"}
+{"rank":236,"domain":"etsy.com","url":"https://etsy.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:55.174Z"}
+{"rank":238,"domain":"imcmdb.net","url":"https://imcmdb.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:35:55.249Z"}
+{"rank":239,"domain":"sourceforge.net","url":"https://sourceforge.net/","status":"ok","checked_at":"2026-09-09T18:35:55.435Z","html_char_length":113130,"link_count":161,"link_density":0.027186761229314422,"stock":{"char_length":5922,"total_chunks":4,"total_chunks_plain":4,"boundaries_markdown":[169,320,477,590],"boundaries_plain":[171,320,477,590]},"page_contents":{"char_length":4087,"total_chunks":4,"total_chunks_plain":4,"boundaries_markdown":[170,318,468,578],"boundaries_plain":[177,318,468,578]}}
+{"rank":240,"domain":"pubmatic.com","url":"https://pubmatic.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:55.846Z"}
+{"rank":241,"domain":"canva.com","url":"https://canva.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:35:56.407Z"}
+{"rank":242,"domain":"wsdvs.com","url":"https://wsdvs.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:56.680Z"}
+{"rank":243,"domain":"rbxcdn.com","url":"https://rbxcdn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:56.820Z"}
+{"rank":248,"domain":"name-services.com","url":"https://name-services.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:56.905Z"}
+{"rank":249,"domain":"ripn.net","url":"https://ripn.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:56.953Z"}
+{"rank":250,"domain":"omtrdc.net","url":"https://omtrdc.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:57.221Z"}
+{"rank":252,"domain":"meraki.com","url":"https://meraki.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:57.364Z"}
+{"rank":254,"domain":"booking.com","url":"https://booking.com/","status":"error","error":"empty body","error_category":"empty_body","checked_at":"2026-09-09T18:35:57.428Z"}
+{"rank":256,"domain":"adnxs.com","url":"https://adnxs.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:35:57.476Z"}
+{"rank":258,"domain":"imdb.com","url":"https://imdb.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:57.615Z"}
+{"rank":260,"domain":"alibabadns.com","url":"https://alibabadns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:57.619Z"}
+{"rank":263,"domain":"wixsite.com","url":"https://wixsite.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:57.643Z"}
+{"rank":265,"domain":"telecid.ru","url":"https://telecid.ru/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:35:58.114Z"}
+{"rank":266,"domain":"linktr.ee","url":"https://linktr.ee/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:58.130Z"}
+{"rank":267,"domain":"capcutapi.com","url":"https://capcutapi.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:58.170Z"}
+{"rank":268,"domain":"ttvnw.net","url":"https://ttvnw.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:58.193Z"}
+{"rank":269,"domain":"ailawandorder.com","url":"https://ailawandorder.com/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:35:58.236Z"}
+{"rank":270,"domain":"ibm.com","url":"https://ibm.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:35:58.285Z"}
+{"rank":271,"domain":"facebook.net","url":"https://facebook.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:58.504Z"}
+{"rank":272,"domain":"arubanetworks.com","url":"https://arubanetworks.com/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:35:58.643Z"}
+{"rank":274,"domain":"mangosip.ru","url":"https://mangosip.ru/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:35:59.151Z"}
+{"rank":275,"domain":"reuters.com","url":"https://reuters.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:59.194Z"}
+{"rank":276,"domain":"msedge.net","url":"https://msedge.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:35:59.580Z"}
+{"rank":278,"domain":"2mdn.net","url":"https://2mdn.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:59.699Z"}
+{"rank":280,"domain":"spov-msedge.net","url":"https://spov-msedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:59.795Z"}
+{"rank":282,"domain":"aliyuncsslbintl.com","url":"https://aliyuncsslbintl.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:59.809Z"}
+{"rank":283,"domain":"yandexcloud.net","url":"https://yandexcloud.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:59.895Z"}
+{"rank":290,"domain":"byteoversea.net","url":"https://byteoversea.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:35:59.910Z"}
+{"rank":291,"domain":"weibo.com","url":"https://weibo.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:35:59.941Z"}
+{"rank":295,"domain":"media-amazon.com","url":"https://media-amazon.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:00.023Z"}
+{"rank":296,"domain":"tiktokcdn-us.com","url":"https://tiktokcdn-us.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:00.114Z"}
+{"rank":300,"domain":"jsdelivr.net","url":"https://jsdelivr.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:00.163Z"}
+{"rank":302,"domain":"clarity.ms","url":"https://clarity.ms/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:36:00.180Z"}
+{"rank":304,"domain":"autodesk.com","url":"https://autodesk.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:00.781Z"}
+{"rank":307,"domain":"vecdnlb.com","url":"https://vecdnlb.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:01.233Z"}
+{"rank":308,"domain":"wac-msedge.net","url":"https://wac-msedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:01.303Z"}
+{"rank":314,"domain":"wiley.com","url":"https://wiley.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:01.342Z"}
+{"rank":317,"domain":"mtgglobals.com","url":"https://mtgglobals.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:01.347Z"}
+{"rank":318,"domain":"heytapmobile.com","url":"https://heytapmobile.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:01.386Z"}
+{"rank":319,"domain":"shalltry.com","url":"https://shalltry.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:01.443Z"}
+{"rank":320,"domain":"samsungqbe.com","url":"https://samsungqbe.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:01.713Z"}
+{"rank":321,"domain":"worldnic.com","url":"https://worldnic.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:01.793Z"}
+{"rank":322,"domain":"douyincdn.com","url":"https://douyincdn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:02.203Z"}
+{"rank":328,"domain":"myshopify.com","url":"https://myshopify.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:36:02.263Z"}
+{"rank":329,"domain":"hostgator.com","url":"https://hostgator.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:02.696Z"}
+{"rank":331,"domain":"virginm.net","url":"https://virginm.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:03.043Z"}
+{"rank":333,"domain":"akamaihd.net","url":"https://akamaihd.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:03.239Z"}
+{"rank":334,"domain":"trueconf.net","url":"https://trueconf.net/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:36:03.312Z"}
+{"rank":335,"domain":"edgcdn.net","url":"https://edgcdn.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:04.371Z"}
+{"rank":336,"domain":"namecheap.com","url":"https://namecheap.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:04.544Z"}
+{"rank":338,"domain":"tbcache.com","url":"https://tbcache.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:05.830Z"}
+{"rank":341,"domain":"wildberries.ru","url":"https://wildberries.ru/","status":"error","error":"HTTP 498","error_category":"http_498","checked_at":"2026-09-09T18:36:15.250Z"}
+{"rank":342,"domain":"inner-active.mobi","url":"https://inner-active.mobi/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:15.718Z"}
+{"rank":344,"domain":"naver.com","url":"https://naver.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:36:19.151Z"}
+{"rank":345,"domain":"trustpilot.com","url":"https://trustpilot.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:36:19.580Z"}
+{"rank":348,"domain":"awswaf.com","url":"https://awswaf.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:19.720Z"}
+{"rank":353,"domain":"spaceweb.pro","url":"https://spaceweb.pro/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:36:19.796Z"}
+{"rank":354,"domain":"allawnos.com","url":"https://allawnos.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:20.165Z"}
+{"rank":359,"domain":"washingtonpost.com","url":"https://washingtonpost.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:20.220Z"}
+{"rank":361,"domain":"netflix.net","url":"https://netflix.net/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:36:20.569Z"}
+{"rank":362,"domain":"mynetname.net","url":"https://mynetname.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:20.743Z"}
+{"rank":363,"domain":"indeed.com","url":"https://indeed.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:20.999Z"}
+{"rank":364,"domain":"wsj.com","url":"https://wsj.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:36:21.055Z"}
+{"rank":366,"domain":"bloomberg.com","url":"https://bloomberg.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:21.162Z"}
+{"rank":372,"domain":"dotaplabs.net","url":"https://dotaplabs.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:21.209Z"}
+{"rank":373,"domain":"samsungcloudsolution.com","url":"https://samsungcloudsolution.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:21.794Z"}
+{"rank":374,"domain":"cookiedatabase.org","url":"https://cookiedatabase.org/","status":"ok","checked_at":"2026-09-09T18:36:21.834Z","html_char_length":157961,"link_count":45,"link_density":0.005900865460267506,"stock":{"char_length":7626,"total_chunks":7,"total_chunks_plain":7,"boundaries_markdown":[161,321,491,626,750,874,1000],"boundaries_plain":[181,321,493,626,802,966,1000]},"page_contents":{"char_length":7008,"total_chunks":7,"total_chunks_plain":7,"boundaries_markdown":[164,320,490,637,769,905,1041],"boundaries_plain":[164,320,492,637,769,905,1041]}}
+{"rank":377,"domain":"shiabank.com","url":"https://shiabank.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:21.873Z"}
+{"rank":378,"domain":"cdnbuild.net","url":"https://cdnbuild.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:22.591Z"}
+{"rank":379,"domain":"tiktokv.us","url":"https://tiktokv.us/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:25.830Z"}
+{"rank":381,"domain":"ioref.io","url":"https://ioref.io/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:28.052Z"}
+{"rank":382,"domain":"mobile.de","url":"https://mobile.de/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:28.094Z"}
+{"rank":390,"domain":"volcfcdndvs.com","url":"https://volcfcdndvs.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:29.509Z"}
+{"rank":391,"domain":"rocket-cdn.com","url":"https://rocket-cdn.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:30.293Z"}
+{"rank":393,"domain":"ibyteimg.com","url":"https://ibyteimg.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:34.572Z"}
+{"rank":394,"domain":"ezvizlife.com","url":"https://ezvizlife.com/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:36:35.719Z"}
+{"rank":395,"domain":"dnspod.net","url":"https://dnspod.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:41.873Z"}
+{"rank":397,"domain":"kwai-pro.com","url":"https://kwai-pro.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:45.157Z"}
+{"rank":400,"domain":"demdex.net","url":"https://demdex.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:45.213Z"}
+{"rank":401,"domain":"spo-msedge.net","url":"https://spo-msedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:45.895Z"}
+{"rank":403,"domain":"gandi-ns.fr","url":"https://gandi-ns.fr/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:51.912Z"}
+{"rank":404,"domain":"aliexpress.com","url":"https://aliexpress.com/","status":"ok","checked_at":"2026-09-09T18:36:52.029Z","html_char_length":475065,"link_count":92,"link_density":0.00827933765298776,"stock":{"char_length":11112,"total_chunks":4,"total_chunks_plain":4,"boundaries_markdown":[45,179,357,446],"boundaries_plain":[45,179,357,446]},"page_contents":{"char_length":4854,"total_chunks":4,"total_chunks_plain":4,"boundaries_markdown":[52,198,382,470],"boundaries_plain":[52,198,382,470]}}
+{"rank":408,"domain":"online-metrix.net","url":"https://online-metrix.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:52.049Z"}
+{"rank":410,"domain":"unsplash.com","url":"https://unsplash.com/","status":"error","error":"HTTP 401","error_category":"http_401","checked_at":"2026-09-09T18:36:52.081Z"}
+{"rank":411,"domain":"heytapdl.com","url":"https://heytapdl.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:52.098Z"}
+{"rank":412,"domain":"bluehost.com","url":"https://bluehost.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:52.171Z"}
+{"rank":413,"domain":"shopifysvc.com","url":"https://shopifysvc.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:52.191Z"}
+{"rank":415,"domain":"licdn.com","url":"https://licdn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:52.234Z"}
+{"rank":416,"domain":"tiktokv.eu","url":"https://tiktokv.eu/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:52.334Z"}
+{"rank":418,"domain":"espn.com","url":"https://espn.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:52.548Z"}
+{"rank":422,"domain":"huawei.com","url":"https://huawei.com/","status":"ok","checked_at":"2026-09-09T18:36:52.586Z","html_char_length":121144,"link_count":244,"link_density":0.02798165137614679,"stock":{"char_length":8720,"total_chunks":5,"total_chunks_plain":4,"boundaries_markdown":[52,237,401,542,623],"boundaries_plain":[256,424,608,623]},"page_contents":{"char_length":4223,"total_chunks":5,"total_chunks_plain":4,"boundaries_markdown":[43,212,377,525,603],"boundaries_plain":[192,342,516,603]}}
+{"rank":423,"domain":"nflxvideo.net","url":"https://nflxvideo.net/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:36:52.628Z"}
+{"rank":424,"domain":"tiktokcdn-eu.com","url":"https://tiktokcdn-eu.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:52.635Z"}
+{"rank":425,"domain":"beian.gov.cn","url":"https://beian.gov.cn/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:52.695Z"}
+{"rank":427,"domain":"kaspersky-labs.com","url":"https://kaspersky-labs.com/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:36:52.785Z"}
+{"rank":430,"domain":"pangle.io","url":"https://pangle.io/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:52.835Z"}
+{"rank":431,"domain":"enacdn.net","url":"https://enacdn.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:53.361Z"}
+{"rank":432,"domain":"avcdn.net","url":"https://avcdn.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:53.435Z"}
+{"rank":435,"domain":"claude.ai","url":"https://claude.ai/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:53.608Z"}
+{"rank":436,"domain":"kwaipros.com","url":"https://kwaipros.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:53.714Z"}
+{"rank":437,"domain":"vkuser.net","url":"https://vkuser.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:53.787Z"}
+{"rank":441,"domain":"statsigapi.net","url":"https://statsigapi.net/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:53.826Z"}
+{"rank":443,"domain":"substack.com","url":"https://substack.com/","status":"ok","checked_at":"2026-09-09T18:36:54.162Z","html_char_length":312651,"link_count":30,"link_density":0.004274113121527283,"stock":{"char_length":7019,"total_chunks":3,"total_chunks_plain":3,"boundaries_markdown":[154,321,390],"boundaries_plain":[154,338,390]},"page_contents":{"char_length":3230,"total_chunks":3,"total_chunks_plain":3,"boundaries_markdown":[164,330,434],"boundaries_plain":[164,335,434]}}
+{"rank":448,"domain":"awsglobalaccelerator.com","url":"https://awsglobalaccelerator.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:54.296Z"}
+{"rank":449,"domain":"xcal.tv","url":"https://xcal.tv/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:54.350Z"}
+{"rank":450,"domain":"netease.com","url":"https://netease.com/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:36:55.176Z"}
+{"rank":451,"domain":"chinamobile.com","url":"https://chinamobile.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:55.336Z"}
+{"rank":452,"domain":"avsxappcaptiveportal.com","url":"https://avsxappcaptiveportal.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:55.340Z"}
+{"rank":454,"domain":"yahoo.co.jp","url":"https://yahoo.co.jp/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:55.538Z"}
+{"rank":456,"domain":"pixabay.com","url":"https://pixabay.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:36:56.868Z"}
+{"rank":458,"domain":"sohu.com","url":"https://sohu.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:36:56.962Z"}
+{"rank":460,"domain":"myqcloud.com","url":"https://myqcloud.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:58.476Z"}
+{"rank":462,"domain":"byteglb.com","url":"https://byteglb.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:36:58.585Z"}
+{"rank":463,"domain":"wbx2.com","url":"https://wbx2.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:36:58.688Z"}
+{"rank":465,"domain":"adobe.net","url":"https://adobe.net/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:37:01.874Z"}
+{"rank":466,"domain":"timeweb.ru","url":"https://timeweb.ru/","status":"ok","checked_at":"2026-09-09T18:37:02.066Z","html_char_length":395563,"link_count":120,"link_density":0.00847098686997035,"stock":{"char_length":14166,"total_chunks":11,"total_chunks_plain":10,"boundaries_markdown":[115,282,432,596,757,925,1085,1250,1400,1556,1693],"boundaries_plain":[176,357,542,721,895,1068,1221,1400,1556,1693]},"page_contents":{"char_length":12450,"total_chunks":11,"total_chunks_plain":11,"boundaries_markdown":[126,292,453,618,782,949,1118,1283,1433,1589,1726],"boundaries_plain":[126,301,453,630,782,958,1118,1283,1455,1611,1726]}}
+{"rank":467,"domain":"edgecdn.ru","url":"https://edgecdn.ru/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:37:04.627Z"}
+{"rank":469,"domain":"gamepass.com","url":"https://gamepass.com/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:37:05.067Z"}
+{"rank":470,"domain":"eye4.cn","url":"https://eye4.cn/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:37:05.591Z"}
+{"rank":473,"domain":"nflximg.com","url":"https://nflximg.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:08.975Z"}
+{"rank":474,"domain":"cnbc.com","url":"https://cnbc.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:13.789Z"}
+{"rank":475,"domain":"att.com","url":"https://att.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:14.527Z"}
+{"rank":476,"domain":"tencent-cloud.net","url":"https://tencent-cloud.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:15.289Z"}
+{"rank":477,"domain":"list-manage.com","url":"https://list-manage.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:15.337Z"}
+{"rank":478,"domain":"firetvcaptiveportal.com","url":"https://firetvcaptiveportal.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:15.342Z"}
+{"rank":480,"domain":"nease.net","url":"https://nease.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:18.477Z"}
+{"rank":484,"domain":"kwai.net","url":"https://kwai.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:18.689Z"}
+{"rank":485,"domain":"bdydns.com","url":"https://bdydns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:28.976Z"}
+{"rank":486,"domain":"dual-s-msedge.net","url":"https://dual-s-msedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:29.852Z"}
+{"rank":489,"domain":"markmonitor.com","url":"https://markmonitor.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:29.882Z"}
+{"rank":491,"domain":"sc-gw.com","url":"https://sc-gw.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:30.037Z"}
+{"rank":492,"domain":"vercel-dns-016.com","url":"https://vercel-dns-016.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:30.106Z"}
+{"rank":494,"domain":"quora.com","url":"https://quora.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:37:30.172Z"}
+{"rank":495,"domain":"gcdn.co","url":"https://gcdn.co/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:37:30.899Z"}
+{"rank":497,"domain":"libp2p.direct","url":"https://libp2p.direct/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:30.933Z"}
+{"rank":498,"domain":"amazon.co.jp","url":"https://amazon.co.jp/","status":"ok","checked_at":"2026-09-09T18:37:31.543Z","html_char_length":2185,"link_count":0,"link_density":0,"stock":{"char_length":1,"total_chunks":0,"total_chunks_plain":0,"boundaries_markdown":[],"boundaries_plain":[]},"page_contents":{"char_length":1,"total_chunks":0,"total_chunks_plain":0,"boundaries_markdown":[],"boundaries_plain":[]}}
+{"rank":504,"domain":"impervadns.net","url":"https://impervadns.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:32.890Z"}
+{"rank":505,"domain":"twc.com","url":"https://twc.com/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:37:32.913Z"}
+{"rank":506,"domain":"mcafee.com","url":"https://mcafee.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:35.291Z"}
+{"rank":508,"domain":"mysql.com","url":"https://mysql.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:35.338Z"}
+{"rank":509,"domain":"stackoverflow.com","url":"https://stackoverflow.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:35.341Z"}
+{"rank":511,"domain":"behance.net","url":"https://behance.net/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:35.695Z"}
+{"rank":514,"domain":"myhuaweicloud.com","url":"https://myhuaweicloud.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:35.993Z"}
+{"rank":517,"domain":"exp-tas.com","url":"https://exp-tas.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:36.322Z"}
+{"rank":521,"domain":"ui-dns.com","url":"https://ui-dns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:36.380Z"}
+{"rank":522,"domain":"run.app","url":"https://run.app/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:37:36.394Z"}
+{"rank":523,"domain":"ft.com","url":"https://ft.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:36.443Z"}
+{"rank":524,"domain":"gosuslugi.ru","url":"https://gosuslugi.ru/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:37:36.597Z"}
+{"rank":525,"domain":"squarespacedns.com","url":"https://squarespacedns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:36.658Z"}
+{"rank":526,"domain":"openx.net","url":"https://openx.net/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:37:36.767Z"}
+{"rank":527,"domain":"ngenix.net","url":"https://ngenix.net/","status":"error","error":"HTTP 503","error_category":"http_5xx","checked_at":"2026-09-09T18:37:37.001Z"}
+{"rank":528,"domain":"xboxlive.com","url":"https://xboxlive.com/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:37:37.069Z"}
+{"rank":532,"domain":"adobedtm.com","url":"https://adobedtm.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:37.385Z"}
+{"rank":534,"domain":"ipv4only.arpa","url":"https://ipv4only.arpa/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:37.534Z"}
+{"rank":536,"domain":"discord.media","url":"https://discord.media/","status":"error","error":"HTTP 520","error_category":"http_5xx","checked_at":"2026-09-09T18:37:37.758Z"}
+{"rank":537,"domain":"featureassets.org","url":"https://featureassets.org/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:37.768Z"}
+{"rank":542,"domain":"patreon.com","url":"https://patreon.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:37:37.841Z"}
+{"rank":543,"domain":"fandom.com","url":"https://fandom.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:37.934Z"}
+{"rank":546,"domain":"oup.com","url":"https://oup.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:38.140Z"}
+{"rank":547,"domain":"on.aws","url":"https://on.aws/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:38.279Z"}
+{"rank":548,"domain":"elasticbeanstalk.com","url":"https://elasticbeanstalk.com/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:37:38.373Z"}
+{"rank":549,"domain":"noaa.gov","url":"https://noaa.gov/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:38.390Z"}
+{"rank":553,"domain":"hicloud.com","url":"https://hicloud.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:38.479Z"}
+{"rank":554,"domain":"geobasket.ru","url":"https://geobasket.ru/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:38.691Z"}
+{"rank":556,"domain":"tandfonline.com","url":"https://tandfonline.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:39.044Z"}
+{"rank":557,"domain":"svc.ms","url":"https://svc.ms/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:39.115Z"}
+{"rank":558,"domain":"live.net","url":"https://live.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:39.157Z"}
+{"rank":560,"domain":"supertms.com","url":"https://supertms.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:39.281Z"}
+{"rank":561,"domain":"vidaahub.com","url":"https://vidaahub.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:39.325Z"}
+{"rank":564,"domain":"sberbank.ru","url":"https://sberbank.ru/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:37:39.488Z"}
+{"rank":565,"domain":"translate.goog","url":"https://translate.goog/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:37:39.593Z"}
+{"rank":566,"domain":"deviantart.com","url":"https://deviantart.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:39.792Z"}
+{"rank":567,"domain":"e2ro.com","url":"https://e2ro.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:39.968Z"}
+{"rank":569,"domain":"tripadvisor.com","url":"https://tripadvisor.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:40.034Z"}
+{"rank":571,"domain":"adobedc.net","url":"https://adobedc.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:40.075Z"}
+{"rank":572,"domain":"usatoday.com","url":"https://usatoday.com/","status":"error","error":"HTTP 402","error_category":"http_402","checked_at":"2026-09-09T18:37:40.262Z"}
+{"rank":574,"domain":"azure-dns.com","url":"https://azure-dns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:40.312Z"}
+{"rank":576,"domain":"oraclecloud.com","url":"https://oraclecloud.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:40.348Z"}
+{"rank":577,"domain":"qlivecdn.com","url":"https://qlivecdn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:40.491Z"}
+{"rank":579,"domain":"yahoodns.net","url":"https://yahoodns.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:40.648Z"}
+{"rank":580,"domain":"nstld.com","url":"https://nstld.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:40.866Z"}
+{"rank":582,"domain":"cookielaw.org","url":"https://cookielaw.org/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:37:40.937Z"}
+{"rank":585,"domain":"my.com","url":"https://my.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:41.123Z"}
+{"rank":587,"domain":"t-msedge.net","url":"https://t-msedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:41.251Z"}
+{"rank":588,"domain":"easebar.com","url":"https://easebar.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:41.438Z"}
+{"rank":589,"domain":"rlcdn.com","url":"https://rlcdn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:41.487Z"}
+{"rank":594,"domain":"ieee.org","url":"https://ieee.org/","status":"error","error":"empty body","error_category":"empty_body","checked_at":"2026-09-09T18:37:41.494Z"}
+{"rank":596,"domain":"xiaomi.net","url":"https://xiaomi.net/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:37:41.497Z"}
+{"rank":598,"domain":"imgsmail.ru","url":"https://imgsmail.ru/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:37:41.678Z"}
+{"rank":599,"domain":"telegraph.co.uk","url":"https://telegraph.co.uk/","status":"error","error":"HTTP 402","error_category":"http_402","checked_at":"2026-09-09T18:37:41.681Z"}
+{"rank":600,"domain":"shop.app","url":"https://shop.app/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:41.810Z"}
+{"rank":603,"domain":"samsungapps.com","url":"https://samsungapps.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:41.942Z"}
+{"rank":604,"domain":"force.com","url":"https://force.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:37:42.047Z"}
+{"rank":607,"domain":"cdn20.com","url":"https://cdn20.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:42.192Z"}
+{"rank":608,"domain":"mdpi.com","url":"https://mdpi.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:42.212Z"}
+{"rank":613,"domain":"threads.com","url":"https://threads.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:37:42.414Z"}
+{"rank":615,"domain":"wswebcdn.com","url":"https://wswebcdn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:42.488Z"}
+{"rank":616,"domain":"bx-msedge.net","url":"https://bx-msedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:42.779Z"}
+{"rank":617,"domain":"accuweather.com","url":"https://accuweather.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:42.781Z"}
+{"rank":619,"domain":"vercel-dns-3.com","url":"https://vercel-dns-3.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:42.825Z"}
+{"rank":621,"domain":"sharethrough.com","url":"https://sharethrough.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:37:42.915Z"}
+{"rank":623,"domain":"alicdn.com","url":"https://alicdn.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:43.300Z"}
+{"rank":624,"domain":"mhverifier.ru","url":"https://mhverifier.ru/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:37:43.812Z"}
+{"rank":627,"domain":"ikea.com","url":"https://ikea.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:44.243Z"}
+{"rank":629,"domain":"loc.gov","url":"https://loc.gov/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:44.555Z"}
+{"rank":630,"domain":"nintendo.com","url":"https://nintendo.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:37:44.730Z"}
+{"rank":631,"domain":"whecloud.com","url":"https://whecloud.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:45.717Z"}
+{"rank":634,"domain":"msidentity.com","url":"https://msidentity.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:45.968Z"}
+{"rank":637,"domain":"tencent.com","url":"https://tencent.com/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:37:46.051Z"}
+{"rank":641,"domain":"footprintdns.com","url":"https://footprintdns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:53.030Z"}
+{"rank":643,"domain":"ups.com","url":"https://ups.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:53.214Z"}
+{"rank":644,"domain":"bidswitch.net","url":"https://bidswitch.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:55.294Z"}
+{"rank":645,"domain":"googletagservices.com","url":"https://googletagservices.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:56.327Z"}
+{"rank":647,"domain":"vedsalb.com","url":"https://vedsalb.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:56.450Z"}
+{"rank":651,"domain":"britannica.com","url":"https://britannica.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:57.321Z"}
+{"rank":652,"domain":"yelp.com","url":"https://yelp.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:57.533Z"}
+{"rank":654,"domain":"cmediahub.ru","url":"https://cmediahub.ru/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:57.996Z"}
+{"rank":655,"domain":"ovh.net","url":"https://ovh.net/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:37:58.183Z"}
+{"rank":656,"domain":"bytedns1.com","url":"https://bytedns1.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:58.397Z"}
+{"rank":658,"domain":"allegro.pl","url":"https://allegro.pl/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:58.473Z"}
+{"rank":659,"domain":"elpais.com","url":"https://elpais.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:58.643Z"}
+{"rank":660,"domain":"imgur.com","url":"https://imgur.com/","status":"error","error":"HTTP 429","error_category":"http_429","checked_at":"2026-09-09T18:37:58.839Z"}
+{"rank":661,"domain":"dailymail.co.uk","url":"https://dailymail.co.uk/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:58.949Z"}
+{"rank":662,"domain":"hstgr.net","url":"https://hstgr.net/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:37:58.952Z"}
+{"rank":663,"domain":"googlezip.net","url":"https://googlezip.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:59.036Z"}
+{"rank":667,"domain":"cambridge.org","url":"https://cambridge.org/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:59.086Z"}
+{"rank":672,"domain":"pvp.net","url":"https://pvp.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:59.187Z"}
+{"rank":673,"domain":"telephony.goog","url":"https://telephony.goog/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:37:59.293Z"}
+{"rank":674,"domain":"anydesk.com","url":"https://anydesk.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:37:59.417Z"}
+{"rank":675,"domain":"vercel-dns-017.com","url":"https://vercel-dns-017.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:59.553Z"}
+{"rank":676,"domain":"resolver.arpa","url":"https://resolver.arpa/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:59.632Z"}
+{"rank":677,"domain":"beyondwickedmapping.org","url":"https://beyondwickedmapping.org/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:37:59.642Z"}
+{"rank":678,"domain":"cdnhwc1.com","url":"https://cdnhwc1.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:37:59.698Z"}
+{"rank":681,"domain":"ks-cdn.com","url":"https://ks-cdn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:01.198Z"}
+{"rank":682,"domain":"perplexity.ai","url":"https://perplexity.ai/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:01.855Z"}
+{"rank":683,"domain":"hihonorcloud.com","url":"https://hihonorcloud.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:01.943Z"}
+{"rank":684,"domain":"hostgator.com.br","url":"https://hostgator.com.br/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:02.072Z"}
+{"rank":688,"domain":"typekit.net","url":"https://typekit.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:02.209Z"}
+{"rank":689,"domain":"twimg.com","url":"https://twimg.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:02.783Z"}
+{"rank":695,"domain":"dailymail.com","url":"https://dailymail.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:02.785Z"}
+{"rank":697,"domain":"fb.com","url":"https://fb.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:02.845Z"}
+{"rank":698,"domain":"blackhub.team","url":"https://blackhub.team/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:02.933Z"}
+{"rank":701,"domain":"marriott.com","url":"https://marriott.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:03.037Z"}
+{"rank":703,"domain":"comcast.com","url":"https://comcast.com/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:38:03.154Z"}
+{"rank":704,"domain":"pinimg.com","url":"https://pinimg.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:03.194Z"}
+{"rank":705,"domain":"kick.com","url":"https://kick.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:03.300Z"}
+{"rank":709,"domain":"wp.pl","url":"https://wp.pl/","status":"ok","checked_at":"2026-09-09T18:38:03.494Z","html_char_length":415152,"link_count":452,"link_density":0.005124948977277881,"stock":{"char_length":88196,"total_chunks":18,"total_chunks_plain":16,"boundaries_markdown":[140,309,448,618,775,909,1068,1230,1400,1564,1705,1804,1971,2140,2244,2413,2530,2667],"boundaries_plain":[235,496,760,909,1068,1230,1401,1564,1705,1804,1971,2140,2244,2413,2530,2667]},"page_contents":{"char_length":19496,"total_chunks":18,"total_chunks_plain":16,"boundaries_markdown":[135,289,425,594,760,909,1069,1234,1371,1526,1675,1843,2011,2174,2289,2458,2576,2714],"boundaries_plain":[230,473,701,895,1061,1222,1371,1526,1675,1843,2011,2174,2289,2458,2576,2714]}}
+{"rank":710,"domain":"nel.goog","url":"https://nel.goog/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:03.708Z"}
+{"rank":712,"domain":"iso.org","url":"https://iso.org/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:03.949Z"}
+{"rank":714,"domain":"dbankcloud.com","url":"https://dbankcloud.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:04.129Z"}
+{"rank":716,"domain":"quantserve.com","url":"https://quantserve.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:04.196Z"}
+{"rank":718,"domain":"samsungacr.com","url":"https://samsungacr.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:04.279Z"}
+{"rank":719,"domain":"share-dns.com","url":"https://share-dns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:04.421Z"}
+{"rank":722,"domain":"alipaydns.com","url":"https://alipaydns.com/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:38:04.560Z"}
+{"rank":729,"domain":"uber.com","url":"https://uber.com/","status":"ok","checked_at":"2026-09-09T18:38:04.747Z","html_char_length":784968,"link_count":174,"link_density":0.018170426065162906,"stock":{"char_length":9576,"total_chunks":4,"total_chunks_plain":3,"boundaries_markdown":[168,337,501,538],"boundaries_plain":[177,365,538]},"page_contents":{"char_length":3995,"total_chunks":4,"total_chunks_plain":4,"boundaries_markdown":[165,315,484,632],"boundaries_plain":[173,352,566,632]}}
+{"rank":730,"domain":"stripchat.com","url":"https://stripchat.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:04.759Z"}
+{"rank":732,"domain":"browser-intake-datadoghq.com","url":"https://browser-intake-datadoghq.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:04.877Z"}
+{"rank":734,"domain":"creativecdn.com","url":"https://creativecdn.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:05.437Z"}
+{"rank":736,"domain":"mlb.com","url":"https://mlb.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:05.474Z"}
+{"rank":737,"domain":"bunnyinfra.net","url":"https://bunnyinfra.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:05.931Z"}
+{"rank":738,"domain":"agkn.com","url":"https://agkn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:05.963Z"}
+{"rank":739,"domain":"crwdcntrl.net","url":"https://crwdcntrl.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:06.066Z"}
+{"rank":740,"domain":"1rx.io","url":"https://1rx.io/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:06.144Z"}
+{"rank":741,"domain":"githubusercontent.com","url":"https://githubusercontent.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:06.147Z"}
+{"rank":748,"domain":"eeroup.com","url":"https://eeroup.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:38:06.427Z"}
+{"rank":749,"domain":"bidr.io","url":"https://bidr.io/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:06.822Z"}
+{"rank":751,"domain":"bamgrid.com","url":"https://bamgrid.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:06.997Z"}
+{"rank":752,"domain":"imrworldwide.com","url":"https://imrworldwide.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:07.087Z"}
+{"rank":754,"domain":"bestbuy.com","url":"https://bestbuy.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:07.141Z"}
+{"rank":756,"domain":"homedepot.com","url":"https://homedepot.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:07.563Z"}
+{"rank":757,"domain":"mediafire.com","url":"https://mediafire.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:07.855Z"}
+{"rank":758,"domain":"curseforge.com","url":"https://curseforge.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:07.986Z"}
+{"rank":759,"domain":"safebrowsing.apple","url":"https://safebrowsing.apple/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:08.283Z"}
+{"rank":760,"domain":"criteo.net","url":"https://criteo.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:08.321Z"}
+{"rank":762,"domain":"steamstatic.com","url":"https://steamstatic.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:08.446Z"}
+{"rank":765,"domain":"grammarly.io","url":"https://grammarly.io/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:08.484Z"}
+{"rank":770,"domain":"ad-tech.ru","url":"https://ad-tech.ru/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:38:08.647Z"}
+{"rank":771,"domain":"allaboutcookies.org","url":"https://allaboutcookies.org/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:08.937Z"}
+{"rank":772,"domain":"fda.gov","url":"https://fda.gov/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:09.216Z"}
+{"rank":774,"domain":"nmrodam.com","url":"https://nmrodam.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:09.286Z"}
+{"rank":776,"domain":"mckinsey.com","url":"https://mckinsey.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:09.730Z"}
+{"rank":778,"domain":"ovscdns.com","url":"https://ovscdns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:13.216Z"}
+{"rank":779,"domain":"expedia.com","url":"https://expedia.com/","status":"error","error":"HTTP 429","error_category":"http_429","checked_at":"2026-09-09T18:38:13.241Z"}
+{"rank":781,"domain":"fiverr.com","url":"https://fiverr.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:13.638Z"}
+{"rank":784,"domain":"adjust.com","url":"https://adjust.com/","status":"error","error":"HTTP 429","error_category":"http_429","checked_at":"2026-09-09T18:38:13.938Z"}
+{"rank":786,"domain":"orderbox-dns.com","url":"https://orderbox-dns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:14.179Z"}
+{"rank":788,"domain":"liadm.com","url":"https://liadm.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:14.309Z"}
+{"rank":790,"domain":"apnews.com","url":"https://apnews.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:15.141Z"}
+{"rank":792,"domain":"shopeemobile.com","url":"https://shopeemobile.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:15.250Z"}
+{"rank":793,"domain":"wcdnga.com","url":"https://wcdnga.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:19.295Z"}
+{"rank":794,"domain":"adform.net","url":"https://adform.net/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:19.451Z"}
+{"rank":795,"domain":"herokudns.com","url":"https://herokudns.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:19.540Z"}
+{"rank":796,"domain":"sc-cdn.net","url":"https://sc-cdn.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:19.595Z"}
+{"rank":799,"domain":"usgovcloudapi.net","url":"https://usgovcloudapi.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:19.614Z"}
+{"rank":801,"domain":"wb.ru","url":"https://wb.ru/","status":"error","error":"HTTP 498","error_category":"http_498","checked_at":"2026-09-09T18:38:20.068Z"}
+{"rank":802,"domain":"people.com","url":"https://people.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:20.759Z"}
+{"rank":804,"domain":"no-ip.com","url":"https://no-ip.com/","status":"ok","checked_at":"2026-09-09T18:38:21.014Z","html_char_length":167974,"link_count":161,"link_density":0.011807847451411807,"stock":{"char_length":13635,"total_chunks":10,"total_chunks_plain":9,"boundaries_markdown":[170,333,473,639,808,973,1134,1285,1454,1560],"boundaries_plain":[173,347,520,678,839,1010,1207,1401,1560]},"page_contents":{"char_length":9067,"total_chunks":9,"total_chunks_plain":9,"boundaries_markdown":[166,333,496,654,823,982,1147,1306,1444],"boundaries_plain":[166,333,496,654,823,982,1147,1306,1444]}}
+{"rank":806,"domain":"recaptcha.net","url":"https://recaptcha.net/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:38:22.209Z"}
+{"rank":808,"domain":"disneyplus.com","url":"https://disneyplus.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:22.309Z"}
+{"rank":811,"domain":"queniuaa.com","url":"https://queniuaa.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:22.559Z"}
+{"rank":813,"domain":"daum.net","url":"https://daum.net/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:23.014Z"}
+{"rank":814,"domain":"academia.edu","url":"https://academia.edu/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:23.510Z"}
+{"rank":816,"domain":"ozone.ru","url":"https://ozone.ru/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:38:23.845Z"}
+{"rank":822,"domain":"33across.com","url":"https://33across.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:24.262Z"}
+{"rank":824,"domain":"cloudsink.net","url":"https://cloudsink.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:24.582Z"}
+{"rank":825,"domain":"zpath.net","url":"https://zpath.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:24.630Z"}
+{"rank":826,"domain":"akamaitech.net","url":"https://akamaitech.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:24.673Z"}
+{"rank":830,"domain":"keenetic.io","url":"https://keenetic.io/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:24.699Z"}
+{"rank":833,"domain":"h264.io","url":"https://h264.io/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:24.765Z"}
+{"rank":834,"domain":"turn.com","url":"https://turn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:24.869Z"}
+{"rank":836,"domain":"lefigaro.fr","url":"https://lefigaro.fr/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:25.015Z"}
+{"rank":841,"domain":"buydomains.com","url":"https://buydomains.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:25.137Z"}
+{"rank":842,"domain":"goskope.com","url":"https://goskope.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:25.334Z"}
+{"rank":844,"domain":"a-msedge.net","url":"https://a-msedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:25.441Z"}
+{"rank":846,"domain":"usda.gov","url":"https://usda.gov/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:25.520Z"}
+{"rank":847,"domain":"lgtvcommon.com","url":"https://lgtvcommon.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:25.903Z"}
+{"rank":848,"domain":"amazon.com.br","url":"https://amazon.com.br/","status":"ok","checked_at":"2026-09-09T18:38:26.007Z","html_char_length":1035210,"link_count":117,"link_density":0.0006726341387695969,"stock":{"char_length":173943,"total_chunks":4,"total_chunks_plain":4,"boundaries_markdown":[150,318,487,558],"boundaries_plain":[173,339,537,558]},"page_contents":{"char_length":3671,"total_chunks":4,"total_chunks_plain":4,"boundaries_markdown":[157,321,491,563],"boundaries_plain":[157,328,525,563]}}
+{"rank":849,"domain":"att.net","url":"https://att.net/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:26.066Z"}
+{"rank":852,"domain":"onlyfans.com","url":"https://onlyfans.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:26.535Z"}
+{"rank":854,"domain":"discogs.com","url":"https://discogs.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:26.761Z"}
+{"rank":859,"domain":"ebay.co.uk","url":"https://ebay.co.uk/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:27.143Z"}
+{"rank":865,"domain":"pexels.com","url":"https://pexels.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:27.358Z"}
+{"rank":866,"domain":"msftauth.net","url":"https://msftauth.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:27.687Z"}
+{"rank":868,"domain":"adgrx.com","url":"https://adgrx.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:27.708Z"}
+{"rank":872,"domain":"yellowblue.io","url":"https://yellowblue.io/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:27.711Z"}
+{"rank":873,"domain":"t-s1-msedge.net","url":"https://t-s1-msedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:27.846Z"}
+{"rank":875,"domain":"mayoclinic.org","url":"https://mayoclinic.org/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:27.869Z"}
+{"rank":876,"domain":"fbsbx.com","url":"https://fbsbx.com/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:38:27.881Z"}
+{"rank":877,"domain":"hilton.com","url":"https://hilton.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:27.898Z"}
+{"rank":879,"domain":"ebay.de","url":"https://ebay.de/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:28.269Z"}
+{"rank":880,"domain":"princeton.edu","url":"https://princeton.edu/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:38:28.692Z"}
+{"rank":882,"domain":"azure-devices.net","url":"https://azure-devices.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:28.863Z"}
+{"rank":883,"domain":"ssl-images-amazon.com","url":"https://ssl-images-amazon.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:28.894Z"}
+{"rank":885,"domain":"spotifycdn.com","url":"https://spotifycdn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:28.941Z"}
+{"rank":890,"domain":"life360.com","url":"https://life360.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:29.058Z"}
+{"rank":892,"domain":"scdn.co","url":"https://scdn.co/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:29.156Z"}
+{"rank":894,"domain":"360safe.com","url":"https://360safe.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:29.180Z"}
+{"rank":895,"domain":"dbankcloud.ru","url":"https://dbankcloud.ru/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:29.707Z"}
+{"rank":897,"domain":"herokuapp.com","url":"https://herokuapp.com/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:38:29.731Z"}
+{"rank":901,"domain":"coupang.com","url":"https://coupang.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:29.867Z"}
+{"rank":903,"domain":"dv.tech","url":"https://dv.tech/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:38:29.917Z"}
+{"rank":907,"domain":"eu-1-id5-sync.com","url":"https://eu-1-id5-sync.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:29.971Z"}
+{"rank":910,"domain":"usercontent.goog","url":"https://usercontent.goog/","status":"error","error":"HTTP 404","error_category":"http_404","checked_at":"2026-09-09T18:38:30.174Z"}
+{"rank":914,"domain":"nintendo.net","url":"https://nintendo.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:30.201Z"}
+{"rank":916,"domain":"samsungiotcloud.com","url":"https://samsungiotcloud.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:30.305Z"}
+{"rank":917,"domain":"tiktokw.us","url":"https://tiktokw.us/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:30.368Z"}
+{"rank":919,"domain":"miwifi.com","url":"https://miwifi.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:30.403Z"}
+{"rank":922,"domain":"go-mpulse.net","url":"https://go-mpulse.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:30.473Z"}
+{"rank":923,"domain":"samsungosp.com","url":"https://samsungosp.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:30.664Z"}
+{"rank":924,"domain":"dnse0.com","url":"https://dnse0.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:31.099Z"}
+{"rank":925,"domain":"flashtalking.com","url":"https://flashtalking.com/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:38:31.169Z"}
+{"rank":929,"domain":"genius.com","url":"https://genius.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:31.890Z"}
+{"rank":930,"domain":"deloitte.com","url":"https://deloitte.com/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:38:32.025Z"}
+{"rank":931,"domain":"epam.com","url":"https://epam.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:32.316Z"}
+{"rank":932,"domain":"aiv-delivery.net","url":"https://aiv-delivery.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:32.463Z"}
+{"rank":933,"domain":"youku.com","url":"https://youku.com/","status":"ok","checked_at":"2026-09-09T18:38:32.526Z","html_char_length":1073,"link_count":1,"link_density":0.004149377593360996,"stock":{"char_length":241,"total_chunks":1,"total_chunks_plain":1,"boundaries_markdown":[1],"boundaries_plain":[1]},"page_contents":{"char_length":1,"total_chunks":0,"total_chunks_plain":0,"boundaries_markdown":[],"boundaries_plain":[]}}
+{"rank":934,"domain":"state.gov","url":"https://state.gov/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:38:32.551Z"}
+{"rank":936,"domain":"lowes.com","url":"https://lowes.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:32.901Z"}
+{"rank":938,"domain":"zenecn.net","url":"https://zenecn.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:33.125Z"}
+{"rank":939,"domain":"volcgslb.com","url":"https://volcgslb.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:33.333Z"}
+{"rank":943,"domain":"kunluncan.com","url":"https://kunluncan.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:33.781Z"}
+{"rank":944,"domain":"mailchi.mp","url":"https://mailchi.mp/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:34.041Z"}
+{"rank":947,"domain":"webhostbox.net","url":"https://webhostbox.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:34.065Z"}
+{"rank":948,"domain":"sentinelone.net","url":"https://sentinelone.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:34.212Z"}
+{"rank":950,"domain":"leiniao.com","url":"https://leiniao.com/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:38:34.310Z"}
+{"rank":951,"domain":"investopedia.com","url":"https://investopedia.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:35.254Z"}
+{"rank":952,"domain":"character.ai","url":"https://character.ai/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:35.653Z"}
+{"rank":953,"domain":"chaturbate.com","url":"https://chaturbate.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:35.821Z"}
+{"rank":956,"domain":"bytefcdn.com","url":"https://bytefcdn.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:36.100Z"}
+{"rank":957,"domain":"opera-api2.com","url":"https://opera-api2.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:37.585Z"}
+{"rank":960,"domain":"hm.com","url":"https://hm.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:49.181Z"}
+{"rank":967,"domain":"ancestry.com","url":"https://ancestry.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:49.973Z"}
+{"rank":968,"domain":"ln-msedge.net","url":"https://ln-msedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:50.310Z"}
+{"rank":971,"domain":"tsyndicate.com","url":"https://tsyndicate.com/","status":"error","error":"empty body","error_category":"empty_body","checked_at":"2026-09-09T18:38:50.369Z"}
+{"rank":972,"domain":"mybluehost.me","url":"https://mybluehost.me/","status":"error","error":"fetch failed","error_category":"other","checked_at":"2026-09-09T18:38:50.405Z"}
+{"rank":973,"domain":"nexusmods.com","url":"https://nexusmods.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:50.560Z"}
+{"rank":977,"domain":"immedia-semi.com","url":"https://immedia-semi.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:50.943Z"}
+{"rank":978,"domain":"weforum.org","url":"https://weforum.org/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:51.079Z"}
+{"rank":979,"domain":"4dex.io","url":"https://4dex.io/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:51.535Z"}
+{"rank":980,"domain":"dnse2.com","url":"https://dnse2.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:51.660Z"}
+{"rank":982,"domain":"caixa.gov.br","url":"https://caixa.gov.br/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:51.732Z"}
+{"rank":983,"domain":"tplinknbu.com","url":"https://tplinknbu.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:53.782Z"}
+{"rank":984,"domain":"btloader.com","url":"https://btloader.com/","status":"error","error":"disallowed by robots.txt","error_category":"robots_disallowed","checked_at":"2026-09-09T18:38:53.936Z"}
+{"rank":985,"domain":"presage.io","url":"https://presage.io/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:38:54.142Z"}
+{"rank":987,"domain":"stbid.ru","url":"https://stbid.ru/","status":"error","error":"fetch failed","error_category":"tls","checked_at":"2026-09-09T18:38:54.213Z"}
+{"rank":989,"domain":"cdn-vk.ru","url":"https://cdn-vk.ru/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:54.258Z"}
+{"rank":991,"domain":"transsion-os.com","url":"https://transsion-os.com/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:54.307Z"}
+{"rank":992,"domain":"ddns.net","url":"https://ddns.net/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:54.348Z"}
+{"rank":993,"domain":"sofascore.com","url":"https://sofascore.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:54.525Z"}
+{"rank":994,"domain":"b-msedge.net","url":"https://b-msedge.net/","status":"error","error":"fetch failed","error_category":"dns","checked_at":"2026-09-09T18:38:54.605Z"}
+{"rank":995,"domain":"opera-api.com","url":"https://opera-api.com/","status":"error","error":"This operation was aborted","error_category":"timeout","checked_at":"2026-09-09T18:38:54.703Z"}
+{"rank":999,"domain":"bol.com","url":"https://bol.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:54.709Z"}
+{"rank":1000,"domain":"xhcdn.com","url":"https://xhcdn.com/","status":"error","error":"HTTP 403","error_category":"http_403","checked_at":"2026-09-09T18:38:54.895Z"}

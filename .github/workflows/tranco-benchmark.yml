@@ -1,0 +1,70 @@
+name: Tranco renderer benchmark
+
+on:
+  workflow_dispatch:
+    inputs:
+      concurrency:
+        description: Parallel renderer workers
+        required: false
+        default: '4'
+      timeout:
+        description: Per URL timeout in milliseconds
+        required: false
+        default: '10000'
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install renderer dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run regression tests
+        run: npm run test:measure
+
+      - name: Fetch pinned Tranco snapshot
+        run: |
+          mkdir -p experiments
+          curl --fail --location --retry 3 --connect-timeout 20 --max-time 180 \
+            'https://tranco-list.eu/download/74V6X/1000000' \
+            --output experiments/tranco-74V6X.csv
+          echo 'f759ed99b859b05f098ec5e281bd4a993e6223fd79920af92febb3c9709eef28  experiments/tranco-74V6X.csv' | sha256sum --check
+          python3 scripts/extract-tranco-top1000.py \
+            experiments/tranco-74V6X.csv \
+            experiments/tranco-74V6X-top1000.csv
+
+      - name: Run Tranco benchmark
+        run: |
+          mkdir -p experiments/results
+          node bin/chatgpt-render-benchmark.mjs \
+            --file experiments/tranco-74V6X-top1000.csv \
+            --out experiments/results/tranco-74V6X-render.jsonl \
+            --concurrency "${{ inputs.concurrency }}" \
+            --timeout "${{ inputs.timeout }}"
+
+      - name: Generate renderer baseline
+        run: |
+          node bin/chatgpt-render-baseline.mjs \
+            --file experiments/results/tranco-74V6X-render.jsonl \
+            --out experiments/results/tranco-74V6X-baseline.md
+
+      - name: Upload benchmark results
+        uses: actions/upload-artifact@v4
+        with:
+          name: tranco-74V6X-render-results
+          path: |
+            experiments/results/tranco-74V6X-render.jsonl
+            experiments/results/tranco-74V6X-baseline.md

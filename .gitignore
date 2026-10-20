@@ -1,0 +1,15 @@
+node_modules/
+*.log
+.DS_Store
+__pycache__/
+
+# Raw fetched HTML (gzip), written by the renderer on every run.
+artifacts/
+
+# Local run outputs; regenerate them instead of committing.
+report.md
+report.json
+experiments/results/
+experiments/tranco-74V6X.csv
+experiments/tranco-74V6X-render.jsonl
+experiments/tranco-74V6X-render-results.zip

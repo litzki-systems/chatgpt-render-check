@@ -1,0 +1,32 @@
+{
+  "name": "chatgpt-render-check",
+  "version": "1.2.0",
+  "description": "A reproducible simulation of a reported ChatGPT page-rendering and chunking path, plus a 1,000-domain benchmark of how two text representations move chunk boundaries.",
+  "type": "module",
+  "bin": {
+    "chatgpt-render-check": "./bin/chatgpt-render-check.mjs",
+    "chatgpt-render-measure": "./bin/chatgpt-render-measure.mjs",
+    "chatgpt-render-benchmark": "./bin/chatgpt-render-benchmark.mjs",
+    "chatgpt-render-baseline": "./bin/chatgpt-render-baseline.mjs",
+    "chatgpt-render-fingerprint-conformance": "./bin/chatgpt-render-fingerprint-conformance.mjs",
+    "chatgpt-render-meta-tags": "./bin/chatgpt-render-meta-tags.mjs",
+    "chatgpt-render-fidelity": "./bin/chatgpt-render-fidelity.mjs",
+    "chatgpt-render-audit": "./bin/chatgpt-render-audit.mjs"
+  },
+  "scripts": {
+    "test": "node tests/measure.test.mjs && node tests/render.test.mjs && node tests/normalize-scores.test.mjs",
+    "test:measure": "node tests/measure.test.mjs",
+    "test:render": "node tests/render.test.mjs",
+    "test:normalize": "node tests/normalize-scores.test.mjs",
+    "reproduce": "node benchmark/03-full-width-diff.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT AND CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/litzki-systems/chatgpt-render-check.git"
+  },
+  "author": "Thorsten Litzki"
+}

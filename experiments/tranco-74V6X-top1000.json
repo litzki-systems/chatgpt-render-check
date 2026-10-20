@@ -1,0 +1,13 @@
+{
+  "source": "https://tranco-list.eu/list/74V6X",
+  "list_id": "74V6X",
+  "generated": "2026-09-06",
+  "source_population": 1000000,
+  "benchmark_size": 1000,
+  "selection": "ranks 1 through 1000",
+  "methodology_window": "2026-08-08 through 2026-09-06",
+  "providers": ["Crux", "Farsight", "Majestic", "Radar", "Umbrella"],
+  "aggregation": "Dowdall rule",
+  "filter": "pay-level domains only",
+  "reference": "Victor Le Pochat, Tom Van Goethem, Samaneh Tajalizadehkhoob, Maciej Korczyński, and Wouter Joosen. 2019. Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation. NDSS 2019. https://doi.org/10.14722/ndss.2019.23386"
+}
